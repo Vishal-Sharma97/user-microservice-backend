@@ -1,0 +1,11 @@
+***************************************************************************
+Development uptil 29 July
+***************************************************************************
+
+1) All Entites registers to Database at Boot time
+2) User Able to register, POST to DB
+
+Futher implementations :-
+-> Create error model for Custom exceptions
+-> Implement all errors using error code
+-> Implement all other APIs
